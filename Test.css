@@ -1,0 +1,29 @@
+body {
+    background-color: mistyrose;
+}
+h1 {
+    color:black;
+    font-family:cursive;
+    font-size:300%;
+}
+p{
+    color:black;
+    font-family:inherit
+    font-size:160%;
+}
+table, td, th {
+    border: 1px solid black; 
+    
+}
+ table {
+     width: 100%;
+    border-collapse: collapse;
+}
+img {
+    max-width: 20%;
+    height: 30%;
+}
+.lucky {
+    max-width: 50%;
+    height: 60%;
+}
